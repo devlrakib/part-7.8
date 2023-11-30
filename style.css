@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: peru ;
+    color: aqua !important; => most important tag
+}
+h1{
+    color: salmon;  => same tag thakle seikhane nicer ta priority pabe beshi
+    
+}
+
+.fire{
+    color: red;   => class, id and in-line css aksathe thakle inline css beshi strong hobe 
+}
+
+#third{
+    color: blue ;   => class and id duitai thakle obossoi id priority pabe.
+}
+
